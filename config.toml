@@ -95,7 +95,7 @@ enableEmoji = true
       url       = "https://www.facebook.com/Nikhil-P-M-2682425871983042/"
   [[params.social]]
      icon      = "linkedin-in"" # icon name without the 'fa-'
-     icon_pack = "fab"
+     icon_pack = "fas"
      url       = "www.linkedin.com/in/nikhil-p-m-0196b5185"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
