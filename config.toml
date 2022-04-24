@@ -93,10 +93,10 @@ enableEmoji = true
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.facebook.com/Nikhil-P-M-2682425871983042/"
-  #[[params.social]]
-     # icon      = "instagram" # icon name without the 'fa-'
+  [[params.social]]
+     icon      = "linkedin-in"" # icon name without the 'fa-'
       #icon_pack = "fab"
-      #url       = "https://www.instagram.com/explore/tags/apero/"
+      #url       = "www.linkedin.com/in/nikhil-p-m-0196b5185"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
