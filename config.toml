@@ -96,7 +96,7 @@ enableEmoji = true
   [[params.social]]
      icon      = "address-card" # icon name without the 'fa-'
      icon_pack = "far"
-     url       = "www.linkedin.com/in/nikhil-p-m-0196b5185"
+     url       = "https://www.linkedin.com/in/nikhil-p-m-0196b5185"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
