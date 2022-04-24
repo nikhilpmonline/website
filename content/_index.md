@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am Nikhil Pakkattil Muraleedharan and this is my personal website. I am using it to share my thoughts, experiences, and journeys. In addition to fighting existential crisis, I also spend time learning about public policy, data science, & development. I am currently focusing on public policy and how I can contribute to it using my learnings from United Nations University ([UNU-MERIT](https://www.merit.unu.edu/)) and R.  In my previous life I was a civil (the profession, not the personality) engineer. I have also worked as a tutor, a researcher and as a content developer in the edtech industry. In my personal life I like to explore music, movies, anime, history, science etc. I speak Malayalam, English, Tamizh, Hindi, and (sometimes) sarcasm.
+description: I am Nikhil Pakkattil Muraleedharan and this is my personal website. I am using it to share my thoughts, experiences, and journeys. In addition to fighting existential crisis, I also spend time learning about public policy, data science & development. I am currently focusing on public policy and how I can contribute to it using my learnings from United Nations University ([UNU-MERIT](https://www.merit.unu.edu/)) and R.  In my previous life I was a civil (the profession, not the personality) engineer. I have also worked as a tutor, a researcher and as a content developer in the edtech industry. In my personal life I like to explore music, movies, anime, history, science etc. I speak Malayalam, English, Tamizh, Hindi, and (sometimes) sarcasm.
 
 image_left: true
 images:
