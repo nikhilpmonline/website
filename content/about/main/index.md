@@ -1,17 +1,18 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Why a website" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
-  
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+ I thought I needed a space to organize my rants and ramblings. I was already fighting my daily battles with R. The result of this churn is this personal space where I can document my learnings, which also doubles up as a void I can scream into.   
+   
+   I don't take this space seriously. Hence, I strongly encourage not to take me or my writing seriously and come at me with sophisticated arguments. The only weapons I have in my aresenal are memes, and memes are not sophisticated. They are crude and absurdist symbols of man's inability to grasp complex topics --- like god. The key takeaway from this website is: Memes are divine.
+   
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to all of you!
 ---
 
 ** index doesn't contain a body, just front matter above.
